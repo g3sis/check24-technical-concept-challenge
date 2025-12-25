@@ -2,7 +2,7 @@
 
 ## 📚 Quick Navigation
 
-This repository contains a comprehensive analysis of the CHECK24 GenDev Technical Concept Challenge, broken down into three key documents:
+This repository contains a comprehensive analysis of the CHECK24 GenDev Technical Concept Challenge, broken down into four key documents:
 
 ### 🎯 [KEY_GOALS.md](KEY_GOALS.md)
 **What you need to achieve**
@@ -43,6 +43,21 @@ A detailed 27-day roadmap from start to finish:
 - Quick tips and common mistakes
 
 **Read this third** to know exactly what to do and when.
+
+---
+
+### 🏗️ [ARCHITECTURE_VISUAL.md](ARCHITECTURE_VISUAL.md)
+**Visual architecture diagrams and reference**
+
+Visual summaries and quick reference:
+- Complete system architecture diagram
+- Data flow diagrams
+- Multi-platform rendering flow
+- Failure handling hierarchy
+- Technology stack recommendations
+- Performance targets and metrics
+
+**Use this** as a visual reference while planning or implementing.
 
 ---
 
