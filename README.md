@@ -2,6 +2,8 @@
 
 ## 📚 Quick Navigation
 
+**⚡ New to this challenge? Start here:** [QUICK_START.md](QUICK_START.md) - Get oriented in 5 minutes!
+
 This repository contains a comprehensive analysis of the CHECK24 GenDev Technical Concept Challenge, broken down into four key documents:
 
 ### 🎯 [KEY_GOALS.md](KEY_GOALS.md)
